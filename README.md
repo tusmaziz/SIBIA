@@ -1,2 +1,2 @@
-# e-smaziz-induk
-Pencaatatan Siswa dan Kepegawaian Sekolah
+# SIBIA
+Sistem Informasi Buku Induk Al Aziz
